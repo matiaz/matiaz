@@ -16,7 +16,7 @@ I'm a mobile developer based in Costa Rica 🇨🇷, I enjoy going out for a hik
 These are some of the tools, languages and tech that I use on a daily basis.
 
 <img align="left" alt="Xcode" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/xcode.png" />
-<img align="left" alt="Swift" width="30px" src="https://github.com/matiaz/matiaz/blob/master/master/swift.png" />
+<img align="left" alt="Swift" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/swift.png" />
 <img align="left" alt="Objective C" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/objectivec.png" />
 <img align="left" alt="Github" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/github.png" />
 <img align="left" alt="Cocoapods" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/cocoapods.png" />
