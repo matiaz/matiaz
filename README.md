@@ -15,17 +15,17 @@ I'm a mobile developer based in Costa Rica 🇨🇷, I enjoy going out for a hik
 
 These are some of the tools, languages and tech that I use on a daily basis.
 
-[<img align="left" alt="Xcode" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/xcode.png" />](#)
-[<img align="left" alt="Swift" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/swift.png" />](#)
-[<img align="left" alt="Objective C" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/objectivec.png" />](#)
-[<img align="left" alt="Github" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/github.png" />](#)
-[<img align="left" alt="Cocoapods" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/cocoapods.png" />](#)
-[<img align="left" alt="Fastlane" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/fastlane.png" />](#)
-[<img align="left" alt="VSCode" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/vscode.jpeg" />](#)
-[<img align="left" alt="GCP" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/gcp.png" />](#)
-[<img align="left" alt="Terminal" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/terminal.png" />](#)
-[<img align="left" alt="Firebase" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/firebase.png" />](#)
-[<img align="left" alt="NodeJS" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/node.png" />](#)
+<img align="left" alt="Xcode" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/xcode.png" />
+<img align="left" alt="Swift" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/master/swift.png" />
+<img align="left" alt="Objective C" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/objectivec.png" />
+<img align="left" alt="Github" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/github.png" />
+<img align="left" alt="Cocoapods" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/cocoapods.png" />
+<img align="left" alt="Fastlane" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/fastlane.png" />
+<img align="left" alt="VSCode" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/vscode.jpeg" />
+<img align="left" alt="GCP" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/gcp.png" />
+<img align="left" alt="Terminal" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/terminal.png" />
+<img align="left" alt="Firebase" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/firebase.png" />
+<img align="left" alt="NodeJS" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/node.png" />
 
 <br />
 <br />
@@ -41,8 +41,8 @@ These are some of the tools, languages and tech that I use on a daily basis.
 
 ## You can find me here
 
-[<img align="left" alt="Twitter" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/twitter.png">](https://twitter.com/immatiaz)
-[<img align="left" alt="Twitter" width="30px" src="https://github.com/matiaz/matiaz/blob/setup/media/medium.png">](https://medium.com/@immatiaz)
+[<img align="left" alt="Twitter" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/twitter.png">](https://twitter.com/immatiaz)
+[<img align="left" alt="Twitter" width="30px" src="https://github.com/matiaz/matiaz/blob/master/media/medium.png">](https://medium.com/@immatiaz)
 
 <br />
 <br />
