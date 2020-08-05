@@ -1,6 +1,6 @@
 ## hi, I'm matiaz 🖖🏻
 
-I'm a mobile developer based in Costa Rica 🇨🇷, I enojoy going out for a hike in the mountains ⛰ and walking in the beach 🏖, ohh, and I love music 📻, sports ⚽️ and cars 🏎.
+I'm a mobile developer based in Costa Rica 🇨🇷, I enjoy going out for a hike in the mountains and the beach. I love music, sports and cars.
 
 
 ## I make apps for Apple Products 
