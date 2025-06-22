@@ -4,7 +4,7 @@ I'm a **Senior iOS Developer** based in Costa Rica 🇰🇷 with over a decade o
 
 I help companies design, build, and launch elegant, scalable, and reliable iOS applications — from concept to App Store.
 
-[📧 Contact Me](mailto:dmatiaz@icloud.com) | [🌐 LinkedIn](https://linkedin.com/in/dmatiaz) | [📱 App Portfolio](#-featured-projects)
+[📧 Contact Me](mailto:dmatiaz@icloud.com) | [🌐 LinkedIn](https://linkedin.com/in/dmatiaz) | [📱 App Portfolio](https://matiaz.github.io/portfolio/)
 
 ---
 
@@ -34,36 +34,7 @@ I specialize in:
 
 ---
 
-## 🚀 Featured Projects
-
-### [Gaia App](https://apps.apple.com/us/app/gaia-streaming-consciousness/id821068605)
-> Stream videos about yoga, wellness, and consciousness. Built for iPhone, iPad & Apple TV.
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-![Apple TV](https://img.shields.io/badge/tvOS-000000?style=flat&logo=apple&logoColor=white)
-
----
-
-### [PGA TOUR App](https://apps.apple.com/us/app/pga-tour/id489689106)
-> The official PGA TOUR mobile experience. Live scores, news, and videos.
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
----
-
-### [McDonald's Canada App](https://apps.apple.com/ca/app/mcdonalds-canada/id375695000)
-> Order your favorite food from McDonald's on the go.
-
----
-
-### [Purolator App](https://apps.apple.com/ca/app/purolator/id438701193)
-> Shipment visibility and package tracking at your fingertips.
-
----
-
-> 💼 [View Full Project List »](#)
+## 💼 [View Full Project List »](https://matiaz.github.io/portfolio/)
 
 ---
 
