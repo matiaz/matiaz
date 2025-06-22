@@ -38,12 +38,6 @@ I specialize in:
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=matiaz&show_icons=true&hide_border=true&theme=radical" />
-
----
-
 ## 📨 Let's Work Together
 
 If you're looking for an experienced iOS engineer to join your project or team — feel free to reach out!
