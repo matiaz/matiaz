@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Hi, I'm Danis Matiaz (matiaz)
 
-I'm a **Senior iOS Developer** based in Costa Rica 🇰🇷 with over a decade of experience crafting high-performance apps across the Apple ecosystem — iPhone, iPad, Apple Watch, and Apple TV.
+I'm a **Senior iOS Developer** based in Costa Rica 🇨🇷 with over a decade of experience crafting high-performance apps across the Apple ecosystem — iPhone, iPad, Apple Watch, and Apple TV.
 
 I help companies design, build, and launch elegant, scalable, and reliable iOS applications — from concept to App Store.
 
