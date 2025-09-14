@@ -10,7 +10,7 @@ I help companies design, build, and launch elegant, scalable, and reliable iOS a
 
 ## 💼 About Me
 
-With 10+ years of experience, I’ve delivered successful mobile solutions for top companies like **Walmart, McDonald's, Gaia, Purolator, PGA Tour**, and more.
+With 15+ years of experience, I’ve delivered successful mobile solutions for top companies like **Walmart, McDonald's, Gaia, Purolator, PGA Tour**, and more.
 
 I specialize in:
 - Native iOS development in **Swift**, **Objective-C**, and **SwiftUI**
@@ -34,7 +34,7 @@ I specialize in:
 
 ---
 
-## 💼 [View Full Project List »](https://matiaz.github.io/portfolio/)
+## 💼 [Portfolio »](https://matiaz.github.io/portfolio/)
 
 ---
 
