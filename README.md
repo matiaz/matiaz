@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Hi, I'm Danis Matiaz (matiaz)
 
-I'm a **Senior iOS Developer** based in Costa Rica 🇨🇷 with over a decade of experience crafting high-performance apps across the Apple ecosystem — iPhone, iPad, Apple Watch, and Apple TV.
+I'm a **Senior iOS Developer** based in Costa Rica 🇨🇷 with 15+ years of experience crafting high-performance apps across the Apple ecosystem — iPhone, iPad, Apple Watch, and Apple TV.
 
 I help companies design, build, and launch elegant, scalable, and reliable iOS applications — from concept to App Store.
 
@@ -10,7 +10,9 @@ I help companies design, build, and launch elegant, scalable, and reliable iOS a
 
 ## 💼 About Me
 
-With 15+ years of experience, I’ve delivered successful mobile solutions for top companies like **Walmart, McDonald's, Gaia, Purolator, PGA Tour**, and more.
+With 15+ years of experience, I’ve delivered successful mobile solutions for top companies like **Walmart, Apple, GoPro, McDonald's, Gaia, Purolator, PGA Tour**, and more — all as an embedded contractor on their teams.
+
+Closer to home, as Tech Lead of the mobile department at Imactus I built Costa Rica’s national **Simulacro de Evacuación** app and **MIO Cimar Mareas** — public-service software used across the country. Those are the ones I’m proudest of.
 
 I specialize in:
 - Native iOS development in **Swift**, **Objective-C**, and **SwiftUI**
@@ -31,6 +33,18 @@ I specialize in:
 **Third-Party Libraries**: Alamofire, Brightcove, RevenueCat, Apollo GraphQL, CryptoSwift
 
 **Product & Workflow**: Agile, Jira, Zeplin, Figma, Code Reviews
+
+---
+
+## 🏠 Beyond the App Store
+
+I run my own infrastructure at home — a Proxmox host with a dozen-plus LXC containers and VMs, a NAS, 4 VLANs, Cloudflare tunnels, self-hosted Postgres/Supabase, and Grafana + Prometheus monitoring. CI runs on a Mac mini in the same rack.
+
+Everything I put in production, I broke at home first.
+
+I also build AI-driven automation — agents and scripts that run unattended against real infrastructure, using **Claude Code**, **n8n**, and custom tooling.
+
+**Infra & Automation**: Proxmox, Docker, LXC, Cloudflare Tunnel, nginx, Synology, Grafana, Prometheus, PostgreSQL, Supabase, GitHub Actions, launchd, Bash
 
 ---
 
