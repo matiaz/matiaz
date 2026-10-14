@@ -51,7 +51,7 @@ I also build AI-driven automation — agents and scripts that run unattended aga
 ## 🛠️ Open Source
 
 - **[Pulse](https://github.com/matiaz/herdr-pulse)**: a side dock for [Herdr](https://herdr.dev) that shows your GitHub and Claude Code activity heatmap, the pull requests waiting on you, and your git changes. One click stages, commits with a Claude-written message, pushes, pulls, or opens a pull request that Claude describes.
-- **[Loopy URL Tab Rotator](https://matiaz.github.io/loopy-url-tab-rotator/)**: a browser extension that rotates through a list of URLs or your open tabs on a timer. Made for dashboards, kiosks and presentations, with no data collection.
+- **[Loopy URL Tab Rotator](https://github.com/matiaz/loopy-url-tab-rotator)**: a browser extension that rotates through a list of URLs or your open tabs on a timer. Made for dashboards, kiosks and presentations, with no data collection.
 
 ---
 
